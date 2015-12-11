@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: portal
+  m_Shader: {fileID: 4800000, guid: 1ae1918c84ee0cb429862898628e6987, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: f381875d3e7361645950161121cc0d64, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MaskTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 9488376fe43aa314da5f77b4f9fce9f9, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Distort
+        second:
+          m_Texture: {fileID: 2800000, guid: 8bf9c9fa1ef67f147af9ffcd142c434f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 1.97553015, y: 1.97553015}
+    m_Floats:
+      data:
+        first:
+          name: _DistortX
+        second: .285714298
+      data:
+        first:
+          name: _DistortY
+        second: .607142866
+      data:
+        first:
+          name: _AlphaM
+        second: 10
+      data:
+        first:
+          name: _DistortScrollX
+        second: 1
+      data:
+        first:
+          name: _DistortScrollY
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
