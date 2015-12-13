@@ -28,6 +28,7 @@ public class AstarAI : MonoBehaviour
 
     public void Start()
     {
+        targetPosition = transform.position;
         seeker = GetComponent<Seeker>();
         controller = GetComponent<CharacterController>();
 
@@ -55,6 +56,7 @@ public class AstarAI : MonoBehaviour
 
     public void Update()
     {
+        PointOfTouch();
         PointOfClick();
         if (Time.time - lastRepath > repathRate && seeker.IsDone())
         {
@@ -112,6 +114,19 @@ public class AstarAI : MonoBehaviour
 
     public void PointOfTouch()
     {
-
+            if(Input.touchCount > 0)
+            {
+            //Vector3 touchPosition = Input.GetTouch(0).position;
+                Ray ray = Camera.main.ScreenPointToRay(transform.TransformDirection(Vector3.forward));
+                RaycastHit hit;
+                if(Physics.Raycast(ray, out hit))
+                {
+                    if(hit.collider.tag != "Wall")
+                    {
+                        targetPosition = hit.point;
+                    }
+                }
+            }
+        
     }
 }
