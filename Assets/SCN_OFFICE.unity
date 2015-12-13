@@ -96,12 +96,12 @@ GameObject:
   - 33: {fileID: 29969898}
   - 23: {fileID: 29969897}
   - 65: {fileID: 29969899}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_closet_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &29969896
 Transform:
@@ -173,12 +173,12 @@ GameObject:
   - 33: {fileID: 49754400}
   - 23: {fileID: 49754399}
   - 65: {fileID: 49754401}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_chair_07_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &49754398
 Transform:
@@ -250,12 +250,12 @@ GameObject:
   - 33: {fileID: 54787380}
   - 23: {fileID: 54787379}
   - 65: {fileID: 54787381}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface37_DGM_server_01:polySurface9_default_group4_polySurface2_polySurface6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &54787378
 Transform:
@@ -402,12 +402,12 @@ GameObject:
   - 33: {fileID: 74293566}
   - 23: {fileID: 74293565}
   - 65: {fileID: 74293567}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_02_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &74293564
 Transform:
@@ -479,12 +479,12 @@ GameObject:
   - 33: {fileID: 95781835}
   - 23: {fileID: 95781834}
   - 65: {fileID: 95781836}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_printer_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &95781833
 Transform:
@@ -556,12 +556,12 @@ GameObject:
   - 33: {fileID: 96234807}
   - 23: {fileID: 96234806}
   - 65: {fileID: 96234808}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface91_default_group7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &96234805
 Transform:
@@ -633,12 +633,12 @@ GameObject:
   - 33: {fileID: 98765005}
   - 23: {fileID: 98765004}
   - 65: {fileID: 98765006}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_shredder_03_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &98765003
 Transform:
@@ -710,12 +710,12 @@ GameObject:
   - 33: {fileID: 111329306}
   - 23: {fileID: 111329305}
   - 65: {fileID: 111329307}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_desk_06_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &111329304
 Transform:
@@ -787,12 +787,12 @@ GameObject:
   - 33: {fileID: 164522101}
   - 23: {fileID: 164522100}
   - 65: {fileID: 164522102}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: group7_default_parts:DGM_officedesks_01_DGM_closet_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &164522099
 Transform:
@@ -864,12 +864,12 @@ GameObject:
   - 33: {fileID: 188832375}
   - 23: {fileID: 188832374}
   - 65: {fileID: 188832376}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface93_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &188832373
 Transform:
@@ -941,12 +941,12 @@ GameObject:
   - 33: {fileID: 284371749}
   - 23: {fileID: 284371748}
   - 65: {fileID: 284371750}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_phone_06_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &284371747
 Transform:
@@ -1018,12 +1018,12 @@ GameObject:
   - 33: {fileID: 295017778}
   - 23: {fileID: 295017777}
   - 65: {fileID: 295017779}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_shredder_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &295017776
 Transform:
@@ -1095,12 +1095,12 @@ GameObject:
   - 33: {fileID: 300967581}
   - 23: {fileID: 300967580}
   - 65: {fileID: 300967582}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_04_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &300967579
 Transform:
@@ -1172,12 +1172,12 @@ GameObject:
   - 33: {fileID: 301118337}
   - 23: {fileID: 301118336}
   - 65: {fileID: 301118338}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface64_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &301118335
 Transform:
@@ -1249,12 +1249,12 @@ GameObject:
   - 33: {fileID: 307723729}
   - 23: {fileID: 307723728}
   - 65: {fileID: 307723730}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_01:DGM_computer_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &307723727
 Transform:
@@ -1326,12 +1326,12 @@ GameObject:
   - 33: {fileID: 320565356}
   - 23: {fileID: 320565355}
   - 65: {fileID: 320565357}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface102_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &320565354
 Transform:
@@ -1403,12 +1403,12 @@ GameObject:
   - 33: {fileID: 386281830}
   - 23: {fileID: 386281829}
   - 65: {fileID: 386281831}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_lamp_02_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &386281828
 Transform:
@@ -1480,12 +1480,12 @@ GameObject:
   - 33: {fileID: 392014332}
   - 23: {fileID: 392014331}
   - 65: {fileID: 392014333}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface2_default_group3_M_BLACK_01:DGM_monitor_01_M_BLACK_01:default1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &392014330
 Transform:
@@ -1557,12 +1557,12 @@ GameObject:
   - 33: {fileID: 392261990}
   - 23: {fileID: 392261989}
   - 65: {fileID: 392261991}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: set_01:DGM_printer_01_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &392261988
 Transform:
@@ -1634,12 +1634,12 @@ GameObject:
   - 33: {fileID: 392399423}
   - 23: {fileID: 392399422}
   - 65: {fileID: 392399424}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_closet_04_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &392399421
 Transform:
@@ -1711,12 +1711,12 @@ GameObject:
   - 33: {fileID: 396950153}
   - 23: {fileID: 396950152}
   - 65: {fileID: 396950154}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_desk_03_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &396950151
 Transform:
@@ -1777,48 +1777,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 111.904007, y: 37.7835999, z: 40.4634285}
   m_Center: {x: -193.199005, y: 18.8917999, z: -19.9233875}
---- !u!1001 &401060277
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1500597397}
-    m_Modifications:
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: .300000012
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -.707106829
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: .707106829
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 4d8c5cfa361b9eb44a58d226cb4e18e4, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &419370702
 GameObject:
   m_ObjectHideFlags: 0
@@ -1830,12 +1788,12 @@ GameObject:
   - 33: {fileID: 419370705}
   - 23: {fileID: 419370704}
   - 65: {fileID: 419370706}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_01_low1_default_group5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &419370703
 Transform:
@@ -1907,7 +1865,7 @@ GameObject:
   - 33: {fileID: 455860101}
   - 65: {fileID: 455860100}
   - 23: {fileID: 455860099}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2032,12 +1990,12 @@ GameObject:
   - 33: {fileID: 504068461}
   - 23: {fileID: 504068460}
   - 65: {fileID: 504068462}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_tape_dispencer_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &504068459
 Transform:
@@ -2109,12 +2067,12 @@ GameObject:
   - 33: {fileID: 510784087}
   - 23: {fileID: 510784086}
   - 65: {fileID: 510784088}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: group6_chair:DGM_chair_05_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &510784085
 Transform:
@@ -2186,12 +2144,12 @@ GameObject:
   - 33: {fileID: 535410661}
   - 23: {fileID: 535410660}
   - 65: {fileID: 535410662}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_officedesks_01_DGM_closet_02_default_group7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &535410659
 Transform:
@@ -2263,12 +2221,12 @@ GameObject:
   - 33: {fileID: 551610006}
   - 23: {fileID: 551610005}
   - 65: {fileID: 551610007}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_plant_big_08_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &551610004
 Transform:
@@ -2340,12 +2298,12 @@ GameObject:
   - 33: {fileID: 577637983}
   - 23: {fileID: 577637982}
   - 65: {fileID: 577637984}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface59_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &577637981
 Transform:
@@ -2417,12 +2375,12 @@ GameObject:
   - 33: {fileID: 593976886}
   - 23: {fileID: 593976885}
   - 65: {fileID: 593976887}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface60_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &593976884
 Transform:
@@ -2487,7 +2445,7 @@ BoxCollider:
 GameObject:
   m_PrefabParentObject: {fileID: 100004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
   m_PrefabInternal: {fileID: 1177674445}
---- !u!114 &593993742
+--- !u!114 &593993743
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -2495,12 +2453,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 593993740}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: da9c486d9e924ea48b44bfebaed164e7, type: 3}
+  m_Script: {fileID: 11500000, guid: f6db9cf5b3ce6c241a06b96f248df149, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetPosition: {x: .400000006, y: .300000012, z: .5}
-  speed: 100
+  targetPosition: {x: 1.76999998, y: 0, z: 2.89299989}
+  speed: 10
   nextWaypointDistance: 3
+  repathRate: .5
 --- !u!114 &593993744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2529,6 +2488,23 @@ MonoBehaviour:
     tagsChange: -1
     tagsSet: -1
   tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+--- !u!143 &593993745
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 593993740}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 1
+  m_Radius: .25
+  m_SlopeLimit: 45
+  m_StepOffset: .300000012
+  m_SkinWidth: .0799999982
+  m_MinMoveDistance: .00100000005
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &593993746
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2599,23 +2575,6 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
---- !u!143 &593993747
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 593993740}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 1
-  m_Radius: .119999997
-  m_SlopeLimit: 45
-  m_StepOffset: .300000012
-  m_SkinWidth: .0799999982
-  m_MinMoveDistance: .00100000005
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &603596708
 GameObject:
   m_ObjectHideFlags: 0
@@ -2627,12 +2586,12 @@ GameObject:
   - 33: {fileID: 603596711}
   - 23: {fileID: 603596710}
   - 65: {fileID: 603596712}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_tape_dispencer_04_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &603596709
 Transform:
@@ -2704,12 +2663,12 @@ GameObject:
   - 33: {fileID: 613698031}
   - 23: {fileID: 613698030}
   - 65: {fileID: 613698032}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface100_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &613698029
 Transform:
@@ -2781,12 +2740,12 @@ GameObject:
   - 33: {fileID: 621058993}
   - 23: {fileID: 621058992}
   - 65: {fileID: 621058994}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface95_default_group3_M_BLACK_01:DGM_monitor_01_M_BLACK_01:default1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &621058991
 Transform:
@@ -2858,12 +2817,12 @@ GameObject:
   - 33: {fileID: 680198131}
   - 23: {fileID: 680198130}
   - 65: {fileID: 680198132}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_closet_05_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &680198129
 Transform:
@@ -2952,7 +2911,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   astarData:
-    dataString: UEsDBBQAAAgIAACYn+sHE6L08AEAANkDAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFdUl1v4jAQ/CsnP9MqoZQevPWgpZV6V1TudM+LsyErHDuyneOj4r/f2gmBNA+WsjuenZn1p9jUlInpp/gHqkYxFYhpmoGc5DkM1wk83NxNRsno+zp9SIYI8v5enAYCXIXSf4AnI6bpQJAzJXpL8lFvFLMkA1Fryo0tn7INzozzTkxzUA4Hwhof7ukwdB+hh3ge+WRqidqjbZvpVTM9BVKpoKwwW9ERW8z49m4SvvEwgi+/jNcmwwaa3KZjJjdKkWuH+0MVDM+gcjWLHoiMgF2E4YxmtgJpU/ioorv4nucOfdRk4TAnyzlEPvHD+IJJSnDbqzyDpYbnZ79xE/zk1pQv5ykJc/qC5PYDDhKc7xK7Ls47jWmIYwdqC2uFfwvUv8zCmlrzNr2t+VrtcDjvSDoHswLl9oxppPVKddXbTNpu5hSs7WeKynXIZ3T5fdyTizgurJQJoU74LloO/5Wlxm27yMe1IOGPw9+wuTyJtvxM1nluRDKovXkjvV1Yyi7Ic3VOzr9RSTE33nOwsTa1ZaR4inmy49rPjNUYio21CjUof1jyNN/f5ZdON+9L/RmkN032bad98H14LHbYJOk3lmbX7o80s4JaNs0ohOPTZ7maV81+QgLfFhaq8LwyC7sFHUvTmSKdm5W0iPo93o1STv8BUEsDBBQAAAgAAACYn+sef112MgAAADIAAAASACQAZ3JhcGgwX2VkaXRvci5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BeyJsb2NrZWQiOnRydWUsInNob3dFeHRyYSI6ZmFsc2UsInBpdm90IjoiQ2VudGVyIn1QSwMEFAAACAgAAJif6+CAtyZ1AAAAgwAAAAkAJABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQEdjLEOgyAUAP/lzZaAYlDXDm6me+PwlIcy+DCITZqm/17pdsPdfeBF8fCBoYNKGKGhgCXivh7QqQtPby96ApFSFufWOSwnieZWtVrqZlJGloRzXcNYQHrvNOBG/+KBaXWeredF9NHbPl+zxcHSPZycsibH7w9QSwECLQAUAAAICAAAmJ/rBxOi9PABAADZAwAACwAkAAAAAAAAAAAAAAAAAAAAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwECLQAUAAAIAAAAmJ/rHn9ddjIAAAAyAAAAEgAkAAAAAAAAAAAAAAA9AgAAZ3JhcGgwX2VkaXRvci5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAJif6+CAtyZ1AAAAgwAAAAkAJAAAAAAAAAAAAAAAwwIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAwADABwBAACDAwAAAAA=
+    dataString: UEsDBBQAAAgIAACYn+sthsuKCgIAAO8DAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFdU11v2kAQ/CvVPRN0ZwzGvKWQ0EppE4VUfT7sNT5h31n3UT4i/nv3zsbg8GDB7uzszKz5JDsncrL4JP945YAsCABjOc/SouDRlvLkYZLGNJ5vWUIj4Nl0Si4jwk0DmX3nViiyYCMijKrBapE9yl2FLHREnBSF0vVTvoOlMtaQRcErAyOilfVz0i89BugpPM/4ROoMpAV9bY5pwmYxS+OAeqDjJGVsMp238DGlLI4Slkxm7OJXZhWvG8g34gwdwzwMzsaT1H9mEcKkyqFF0DGb4UZVVcJ0iuyp8SkseWMcOhmRXHC05hWhzxLErrThaz/1WhQGbLCg+WklNCYTyMh3ZUtkqLnZ3yU8ZV5Ey/Rr2GI0irFXaFX/uG6iyGtLke3f+SnjxvY53hdX9yKdPPBqz7cV/C1B/lZrrZzEG1vtcMwZiFY9Se9iWUK2v2JacYOSawb3Yt29Lt7ecVmJeuvjjG8/H4/CBBwWNpXyqaY4CxrT/4lSwztgAh/WvIQ/Bj747vaidOVnoY3FRiDjzqoXIfdrLfIb8lpdCWNfRC1Cbnhob2OrnEYkeQp5omNnl0pL8MXWWgOSV/b0htvs8J5fOv2+L/VnnlnVZt91ur/BEB6KPZbSYeNNHbr7CYmsvHprm0EIxievciWeGv34BL6tNW/8K5ZrfliLc616U0IWapNpAPkaZoOUy39QSwMEFAAACAAAAJif6x5/XXYyAAAAMgAAABIAJABncmFwaDBfZWRpdG9yLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQF7ImxvY2tlZCI6dHJ1ZSwic2hvd0V4dHJhIjpmYWxzZSwicGl2b3QiOiJDZW50ZXIifVBLAwQUAAAICAAAmJ/r4IC3JnUAAACDAAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAR2MsQ6DIBQA/+XNloBiUNcObqZ74/CUhzL4MIhNmqb/Xul2w9194EXx8IGhg0oYoaGAJeK+HtCpC09vL3oCkVIW59Y5LCeJ5la1WupmUkaWhHNdw1hAeu804Eb/4oFpdZ6t50X00ds+X7PFwdI9nJyyJsfvD1BLAQItABQAAAgIAACYn+sthsuKCgIAAO8DAAALACQAAAAAAAAAAAAAAAAAAABncmFwaDAuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLAQItABQAAAgAAACYn+sef112MgAAADIAAAASACQAAAAAAAAAAAAAAFcCAABncmFwaDBfZWRpdG9yLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwECLQAUAAAICAAAmJ/r4IC3JnUAAACDAAAACQAkAAAAAAAAAAAAAADdAgAAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsFBgAAAAADAAMAHAEAAJ0DAAAAAA==
     upgradeData: 
     data_backup: 
     file_cachedStartup: {fileID: 0}
@@ -3035,7 +2994,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 720552935}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: .273000002, y: -.163000003, z: -.356000006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3051,12 +3010,12 @@ GameObject:
   - 33: {fileID: 762832530}
   - 23: {fileID: 762832529}
   - 65: {fileID: 762832531}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_copier_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &762832528
 Transform:
@@ -3128,12 +3087,12 @@ GameObject:
   - 33: {fileID: 773762250}
   - 23: {fileID: 773762249}
   - 65: {fileID: 773762251}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_bin_01_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &773762248
 Transform:
@@ -3205,12 +3164,12 @@ GameObject:
   - 33: {fileID: 783593738}
   - 23: {fileID: 783593737}
   - 65: {fileID: 783593739}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_phone_02_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &783593736
 Transform:
@@ -3282,12 +3241,12 @@ GameObject:
   - 33: {fileID: 805590567}
   - 23: {fileID: 805590566}
   - 65: {fileID: 805590568}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_phone_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &805590565
 Transform:
@@ -3359,12 +3318,12 @@ GameObject:
   - 33: {fileID: 829460978}
   - 23: {fileID: 829460977}
   - 65: {fileID: 829460979}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_printer_04_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &829460976
 Transform:
@@ -3436,12 +3395,12 @@ GameObject:
   - 33: {fileID: 831418682}
   - 23: {fileID: 831418681}
   - 65: {fileID: 831418683}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_coffee_machine_01_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &831418680
 Transform:
@@ -3513,12 +3472,12 @@ GameObject:
   - 33: {fileID: 858211198}
   - 23: {fileID: 858211197}
   - 65: {fileID: 858211199}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_desk_05_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &858211196
 Transform:
@@ -3590,12 +3549,12 @@ GameObject:
   - 33: {fileID: 869786944}
   - 23: {fileID: 869786943}
   - 65: {fileID: 869786945}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_chair_06_default_group6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &869786942
 Transform:
@@ -3667,7 +3626,7 @@ GameObject:
   - 33: {fileID: 903549263}
   - 65: {fileID: 903549262}
   - 23: {fileID: 903549261}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3742,12 +3701,12 @@ GameObject:
   - 33: {fileID: 905503391}
   - 23: {fileID: 905503390}
   - 65: {fileID: 905503392}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: group3_default_M_BLACK_01:DGM_monitor_01_M_BLACK_01:default1_polySurface34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &905503389
 Transform:
@@ -3819,12 +3778,12 @@ GameObject:
   - 33: {fileID: 924848796}
   - 23: {fileID: 924848795}
   - 65: {fileID: 924848797}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_deskLamp_02_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &924848794
 Transform:
@@ -3885,33 +3844,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 13.3950043, y: 26.9624023, z: 16.728199}
   m_Center: {x: 143.464508, y: 51.264801, z: -13.5314999}
---- !u!1 &946134045
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 4
-  m_Component:
-  - 4: {fileID: 946134046}
-  m_Layer: 0
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &946134046
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 946134045}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .694999993, y: -.513998151, z: .289999992}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
 --- !u!1 &950178236
 GameObject:
   m_ObjectHideFlags: 0
@@ -3923,12 +3855,12 @@ GameObject:
   - 33: {fileID: 950178239}
   - 23: {fileID: 950178238}
   - 65: {fileID: 950178240}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_phone_03_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &950178237
 Transform:
@@ -4000,7 +3932,7 @@ GameObject:
   - 33: {fileID: 954569534}
   - 65: {fileID: 954569533}
   - 23: {fileID: 954569532}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4075,12 +4007,12 @@ GameObject:
   - 33: {fileID: 962528946}
   - 23: {fileID: 962528945}
   - 65: {fileID: 962528947}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface103_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &962528944
 Transform:
@@ -4152,12 +4084,12 @@ GameObject:
   - 33: {fileID: 988107013}
   - 23: {fileID: 988107012}
   - 65: {fileID: 988107014}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface44_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &988107011
 Transform:
@@ -4249,7 +4181,7 @@ Transform:
   - {fileID: 455860102}
   - {fileID: 1733539005}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
 --- !u!1 &1020777411
 GameObject:
   m_ObjectHideFlags: 0
@@ -4262,12 +4194,12 @@ GameObject:
   - 23: {fileID: 1020777412}
   - 65: {fileID: 1020777413}
   - 54: {fileID: 1020777416}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!23 &1020777412
 MeshRenderer:
@@ -4352,12 +4284,12 @@ GameObject:
   - 33: {fileID: 1047601861}
   - 23: {fileID: 1047601860}
   - 65: {fileID: 1047601862}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: group_default_set_01:DGM_chair_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1047601859
 Transform:
@@ -4429,12 +4361,12 @@ GameObject:
   - 33: {fileID: 1076777618}
   - 23: {fileID: 1076777617}
   - 65: {fileID: 1076777619}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_03_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1076777616
 Transform:
@@ -4506,12 +4438,12 @@ GameObject:
   - 33: {fileID: 1088138705}
   - 23: {fileID: 1088138704}
   - 65: {fileID: 1088138706}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface94_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1088138703
 Transform:
@@ -4583,12 +4515,12 @@ GameObject:
   - 33: {fileID: 1088357557}
   - 23: {fileID: 1088357556}
   - 65: {fileID: 1088357558}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_chair_03_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1088357555
 Transform:
@@ -4660,12 +4592,12 @@ GameObject:
   - 33: {fileID: 1138551173}
   - 23: {fileID: 1138551172}
   - 65: {fileID: 1138551174}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_deskLamp_04_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1138551171
 Transform:
@@ -4737,12 +4669,12 @@ GameObject:
   - 33: {fileID: 1151623763}
   - 23: {fileID: 1151623762}
   - 65: {fileID: 1151623764}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface98_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1151623761
 Transform:
@@ -4814,12 +4746,12 @@ GameObject:
   - 33: {fileID: 1169366352}
   - 23: {fileID: 1169366351}
   - 65: {fileID: 1169366353}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: set_02:DGM_computer_01_low_default_group5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1169366350
 Transform:
@@ -4893,11 +4825,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_LocalPosition.y
-      value: .899999976
+      value: .416999996
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -1.31599998
+      value: -2.18600011
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_LocalRotation.x
@@ -4917,7 +4849,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2000004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_BackGroundColor.r
@@ -4937,15 +4869,27 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 11400012, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400008, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -.00999999978
+      objectReference: {fileID: 0}
+    - target: {fileID: 450430, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -.0299999993
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
@@ -5089,12 +5033,12 @@ GameObject:
   - 33: {fileID: 1287741474}
   - 23: {fileID: 1287741473}
   - 65: {fileID: 1287741475}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_desk_04_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1287741472
 Transform:
@@ -5166,12 +5110,12 @@ GameObject:
   - 33: {fileID: 1308267799}
   - 23: {fileID: 1308267798}
   - 65: {fileID: 1308267800}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface2_DGM_server_01:polySurface9_default_group4_polySurface36_polySurface6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1308267797
 Transform:
@@ -5243,12 +5187,12 @@ GameObject:
   - 33: {fileID: 1326433263}
   - 23: {fileID: 1326433262}
   - 65: {fileID: 1326433264}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_01_low_default_group5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1326433261
 Transform:
@@ -5320,12 +5264,12 @@ GameObject:
   - 33: {fileID: 1341864037}
   - 23: {fileID: 1341864036}
   - 65: {fileID: 1341864038}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_phone_05_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1341864035
 Transform:
@@ -5397,12 +5341,12 @@ GameObject:
   - 33: {fileID: 1368699790}
   - 23: {fileID: 1368699789}
   - 65: {fileID: 1368699791}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface33_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1368699788
 Transform:
@@ -5474,12 +5418,12 @@ GameObject:
   - 33: {fileID: 1384807057}
   - 23: {fileID: 1384807056}
   - 65: {fileID: 1384807058}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface43_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1384807055
 Transform:
@@ -5611,12 +5555,12 @@ GameObject:
   - 33: {fileID: 1398935367}
   - 23: {fileID: 1398935366}
   - 65: {fileID: 1398935368}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_deskLamp_03_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1398935365
 Transform:
@@ -5688,12 +5632,12 @@ GameObject:
   - 33: {fileID: 1409204461}
   - 23: {fileID: 1409204460}
   - 65: {fileID: 1409204462}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_closet_06_default_group5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1409204459
 Transform:
@@ -5765,12 +5709,12 @@ GameObject:
   - 33: {fileID: 1429319201}
   - 23: {fileID: 1429319200}
   - 65: {fileID: 1429319202}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface27_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1429319199
 Transform:
@@ -5842,12 +5786,12 @@ GameObject:
   - 33: {fileID: 1452632704}
   - 23: {fileID: 1452632703}
   - 65: {fileID: 1452632705}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface39_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1452632702
 Transform:
@@ -5919,12 +5863,12 @@ GameObject:
   - 33: {fileID: 1463640876}
   - 23: {fileID: 1463640875}
   - 65: {fileID: 1463640877}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_plant_big_07_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1463640874
 Transform:
@@ -5996,12 +5940,12 @@ GameObject:
   - 33: {fileID: 1478725754}
   - 23: {fileID: 1478725753}
   - 65: {fileID: 1478725755}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_phone_04_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1478725752
 Transform:
@@ -6077,12 +6021,12 @@ GameObject:
   - 33: {fileID: 1570948388}
   - 23: {fileID: 1570948387}
   - 65: {fileID: 1570948389}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_06_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1570948386
 Transform:
@@ -6154,12 +6098,12 @@ GameObject:
   - 33: {fileID: 1603191713}
   - 23: {fileID: 1603191712}
   - 65: {fileID: 1603191714}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface99_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1603191711
 Transform:
@@ -6231,12 +6175,12 @@ GameObject:
   - 33: {fileID: 1608342976}
   - 23: {fileID: 1608342975}
   - 65: {fileID: 1608342977}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_computer_05_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1608342974
 Transform:
@@ -6308,12 +6252,12 @@ GameObject:
   - 33: {fileID: 1622963538}
   - 23: {fileID: 1622963537}
   - 65: {fileID: 1622963539}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: parts:polySurface91_default_group7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1622963536
 Transform:
@@ -6385,12 +6329,12 @@ GameObject:
   - 33: {fileID: 1651365797}
   - 23: {fileID: 1651365796}
   - 65: {fileID: 1651365798}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_desk_010_default_group
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1651365795
 Transform:
@@ -6462,12 +6406,12 @@ GameObject:
   - 33: {fileID: 1676963031}
   - 23: {fileID: 1676963030}
   - 65: {fileID: 1676963032}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface25_default_polySurface26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1676963029
 Transform:
@@ -6539,12 +6483,12 @@ GameObject:
   - 33: {fileID: 1700372596}
   - 23: {fileID: 1700372595}
   - 65: {fileID: 1700372597}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_tape_dispencer_03_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1700372594
 Transform:
@@ -6616,12 +6560,12 @@ GameObject:
   - 33: {fileID: 1717311987}
   - 23: {fileID: 1717311986}
   - 65: {fileID: 1717311988}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: group4_DGM_server_01:polySurface9_default_polySurface35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1717311985
 Transform:
@@ -6693,7 +6637,7 @@ GameObject:
   - 33: {fileID: 1733539004}
   - 65: {fileID: 1733539003}
   - 23: {fileID: 1733539002}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6768,12 +6712,12 @@ GameObject:
   - 33: {fileID: 1745263521}
   - 23: {fileID: 1745263520}
   - 65: {fileID: 1745263522}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface62_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1745263519
 Transform:
@@ -6845,12 +6789,12 @@ GameObject:
   - 33: {fileID: 1771433491}
   - 23: {fileID: 1771433490}
   - 65: {fileID: 1771433492}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface45_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1771433489
 Transform:
@@ -6922,12 +6866,12 @@ GameObject:
   - 33: {fileID: 1837135791}
   - 23: {fileID: 1837135790}
   - 65: {fileID: 1837135792}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface101_default_group3_M_BLACK_01:DGM_monitor_01_M_BLACK_01:default1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1837135789
 Transform:
@@ -6999,12 +6943,12 @@ GameObject:
   - 33: {fileID: 1861942831}
   - 23: {fileID: 1861942830}
   - 65: {fileID: 1861942832}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_chair_05_default_group6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1861942829
 Transform:
@@ -7076,7 +7020,7 @@ GameObject:
   - 33: {fileID: 1869412497}
   - 65: {fileID: 1869412496}
   - 23: {fileID: 1869412495}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7268,12 +7212,12 @@ GameObject:
   - 33: {fileID: 1902281644}
   - 23: {fileID: 1902281643}
   - 65: {fileID: 1902281645}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_lamp_03_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1902281642
 Transform:
@@ -7345,12 +7289,12 @@ GameObject:
   - 33: {fileID: 1902421085}
   - 23: {fileID: 1902421084}
   - 65: {fileID: 1902421086}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface65_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1902421083
 Transform:
@@ -7422,12 +7366,12 @@ GameObject:
   - 33: {fileID: 1904366519}
   - 23: {fileID: 1904366518}
   - 65: {fileID: 1904366520}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_lamp_04_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1904366517
 Transform:
@@ -7499,12 +7443,12 @@ GameObject:
   - 33: {fileID: 1919112948}
   - 23: {fileID: 1919112947}
   - 65: {fileID: 1919112949}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_tape_dispencer_02_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1919112946
 Transform:
@@ -7576,12 +7520,12 @@ GameObject:
   - 33: {fileID: 1921816806}
   - 23: {fileID: 1921816805}
   - 65: {fileID: 1921816807}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: group5_default_set_02:DGM_closet_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1921816804
 Transform:
@@ -7653,12 +7597,12 @@ GameObject:
   - 33: {fileID: 1922516681}
   - 23: {fileID: 1922516680}
   - 65: {fileID: 1922516682}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_tape_dispencer_05_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1922516679
 Transform:
@@ -7805,12 +7749,12 @@ GameObject:
   - 33: {fileID: 1942399174}
   - 23: {fileID: 1942399173}
   - 65: {fileID: 1942399175}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: DGM_printer_03_default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1942399172
 Transform:
@@ -7882,12 +7826,12 @@ GameObject:
   - 33: {fileID: 2008635574}
   - 23: {fileID: 2008635573}
   - 65: {fileID: 2008635575}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface63_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &2008635572
 Transform:
@@ -7959,12 +7903,12 @@ GameObject:
   - 33: {fileID: 2062749824}
   - 23: {fileID: 2062749823}
   - 65: {fileID: 2062749825}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface92_default_group7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &2062749822
 Transform:
@@ -8036,12 +7980,12 @@ GameObject:
   - 33: {fileID: 2064218850}
   - 23: {fileID: 2064218849}
   - 65: {fileID: 2064218851}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: polySurface32_default_polySurface25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 1
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &2064218848
 Transform:
