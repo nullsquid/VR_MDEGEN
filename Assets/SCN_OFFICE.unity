@@ -2133,6 +2133,11 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 27.2759018, y: 45.6645393, z: 28.3093033}
   m_Center: {x: 94.3930511, y: 22.7100315, z: -54.5884514}
+--- !u!198 &527920037 stripped
+ParticleSystem:
+  m_PrefabParentObject: {fileID: 19800004, guid: 02c3cdbd9dcebfd438c273782a4f9f28,
+    type: 2}
+  m_PrefabInternal: {fileID: 611176762}
 --- !u!1 &535410658
 GameObject:
   m_ObjectHideFlags: 0
@@ -2445,13 +2450,28 @@ BoxCollider:
 GameObject:
   m_PrefabParentObject: {fileID: 100004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
   m_PrefabInternal: {fileID: 1177674445}
---- !u!114 &593993743
+--- !u!114 &593993742
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 593993740}
   m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b729c49d47fede046abbb10e8eddc66d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clouds: {fileID: 1038180491}
+  distortion: {fileID: 1199312544}
+  glow_1: {fileID: 527920037}
+  glow_2: {fileID: 2073834527}
+--- !u!114 &593993743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 593993740}
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f6db9cf5b3ce6c241a06b96f248df149, type: 3}
   m_Name: 
@@ -4319,6 +4339,11 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!198 &1038180491 stripped
+ParticleSystem:
+  m_PrefabParentObject: {fileID: 19800000, guid: 02c3cdbd9dcebfd438c273782a4f9f28,
+    type: 2}
+  m_PrefabInternal: {fileID: 611176762}
 --- !u!1 &1047601858
 GameObject:
   m_ObjectHideFlags: 0
@@ -4993,6 +5018,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+--- !u!198 &1199312544 stripped
+ParticleSystem:
+  m_PrefabParentObject: {fileID: 19800000, guid: a2bc52cbf27991245b88a2cd94affbde,
+    type: 2}
+  m_PrefabInternal: {fileID: 488319296}
 --- !u!1 &1227760518
 GameObject:
   m_ObjectHideFlags: 0
@@ -8092,3 +8122,8 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 4.98300171, y: 11.155899, z: 9.08080292}
   m_Center: {x: -148.537506, y: 43.2686501, z: 72.0263062}
+--- !u!198 &2073834527 stripped
+ParticleSystem:
+  m_PrefabParentObject: {fileID: 19800002, guid: 02c3cdbd9dcebfd438c273782a4f9f28,
+    type: 2}
+  m_PrefabInternal: {fileID: 611176762}
